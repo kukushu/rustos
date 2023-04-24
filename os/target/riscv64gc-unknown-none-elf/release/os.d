@@ -1,0 +1,1 @@
+/home/kukushu/learn/os/myos/os/target/riscv64gc-unknown-none-elf/release/os: /home/kukushu/learn/os/myos/os/src/console.rs /home/kukushu/learn/os/myos/os/src/entry.asm /home/kukushu/learn/os/myos/os/src/lang_items.rs /home/kukushu/learn/os/myos/os/src/main.rs /home/kukushu/learn/os/myos/os/src/sbi.rs
